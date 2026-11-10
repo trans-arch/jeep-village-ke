@@ -1,0 +1,8 @@
+runtime/
+*.db
+*.db-shm
+*.db-wal
+*.log
+.env
+node_modules/
+backups/

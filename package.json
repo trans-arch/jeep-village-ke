@@ -1,0 +1,2 @@
+{"name":"jeep-village","version":"1.1.0","private":true,"description":"Jeep Village booking and protected staff workspace","engines":{"node":"24.x"},"scripts":{"start":"node server.cjs","backup":"node backup.cjs","check":"node --check server.cjs && node --check auth.cjs && node --check public/app.js && node --check public/staff.js && node --check public/login.js && node --check public/booking.js"}}
+
